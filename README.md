@@ -6,6 +6,7 @@ Traffic Sign Recognition can be staged into two sections: Traffic Sign Detection
 
 For the dataset, images from a driving car, training and testing images for a set of signs can be found [here](https://drive.google.com/drive/u/0/folders/0B8DbLKogb5ktTW5UeWd1ZUxibDA).
 
+
 The repository contains following files and folders:
 
 - traffic_sign_recognition.pdf - Project report with detials.
@@ -13,6 +14,13 @@ The repository contains following files and folders:
 - dataset.pkl - pickle file containing the trained model using SVM
 - templates - consists of different signs as templates, to be used for classification.
 
-Note:
+
+## Output Video:
+
+The google drive link for sample output video is provided here:
+
+[Video](https://drive.google.com/open?id=1EfDC4rpTF3HhwQKok_FVIE2kgiWOaShD)
+
+## Note:
 
 Kindly change line number 44, according to the location of the downloaded dataset from link provided in overview.
